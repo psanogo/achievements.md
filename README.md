@@ -5,6 +5,135 @@ HackerRank	HackerRank	![HackerRank](https://img.shields.io/badge/-Hackerrank-2EC
 Indeed	Indeed	![Indeed](https://img.shields.io/badge/indeed-003A9B?style=for-the-badge&logo=indeed&logoColor=white)
 Upwork	Upwork	![Upwork](https://img.shields.io/badge/UpWork-6FDA44?style=for-the-badge&logo=Upwork&logoColor=white)
 (Back to top)
+# github-readme-stats
+
+## 🤖 Artificial Intelligence and Bots
+Name | Badge | Markdown
+--- | --- | ---
+Amazon Alexa | ![Amazon Alexa](https://img.shields.io/badge/amazon%20alexa-52b5f7?style=for-the-badge&logo=amazon%20alexa&logoColor=white) | `!Amazon Alexa`
+ChatGPT | !ChatGPT | `!ChatGPT`
+Dependabot | !Dependabot | `!Dependabot`
+GitHub Copilot | !GitHub Copilot | `!GitHub Copilot`
+Google Assistant | !Google Assistant | `!Google Assistant`
+Google Gemini | !Google Gemini | `!Google Gemini`
+Perplexity | !Perplexity | `!Perplexity`
+
+## 🔗 Blockchain
+Name | Badge | Markdown
+--- | --- | ---
+Bitcoin | !Bitcoin | `!Bitcoin`
+Hyperledger | !Hyperledger | `!Hyperledger`
+
+## 📝 Blog
+Name | Badge | Markdown
+--- | --- | ---
+Blogger | !Blogger | `!Blogger`
+daily.dev | !daily.dev | `!daily.dev`
+Dev.to blog | !Dev.to blog | `!Dev.to blog`
+Ghost | !Ghost | `!Ghost`
+Hashnode | !Hashnode | `!Hashnode`
+Medium | !Medium | `!Medium`
+Micro.blog | !Micro.blog | `!Micro.blog`
+Rss | !Rss | `!Rss`
+Substack | !Substack | `!Substack`
+Wix | !Wix | `!Wix`
+
+## 🌐 Browsers
+Name | Badge | Markdown
+--- | --- | ---
+Brave | !Brave | `!Brave`
+DuckDuckGo | !DuckDuckGo | `!DuckDuckGo`
+Edge | !Edge | `!Edge`
+Firefox | !Firefox | `!Firefox`
+Google Chrome | !Google Chrome | `!Google Chrome`
+IceCat | !IceCat | `!IceCat`
+IE | !IE | `!IE`
+Opera | !Opera | `!Opera`
+Safari | !Safari | `!Safari`
+Tor | !Tor | `!Tor`
+Vivaldi | !Vivaldi | `!Vivaldi`
+Arc | !Arc | `!Arc`
+
+## 🔬 CI
+Name | Badge | Markdown
+--- | --- | ---
+CircleCI | !CircleCI | `!CircleCI`
+ChipperCI | !ChipperCI | `!ChipperCI`
+CloudBees | !CloudBees | `!CloudBees`
+Fastlane | !Fastlane | `!Fastlane`
+GitLab CI | !GitLab CI | `!GitLab CI`
+GitHub Actions | !GitHub Actions | `!GitHub Actions`
+TeamCity | !TeamCity | `!TeamCity`
+Travis CI | !TravisCI | `!TravisCI`
+
+## 📲 CD
+Name | Badge | Markdown
+--- | --- | ---
+Octopus Deploy | !Octopus Deploy | `!Octopus Deploy`
+
+## 📂 Cloud Storage
+Name | Badge | Markdown
+--- | --- | ---
+Amazon S3 | !Amazon S3 | `!Amazon S3`
+Dropbox | !Dropbox | `!Dropbox`
+Google Drive | !Google Drive | `!Google Drive`
+Mega.nz | !Mega.nz | `!Mega.nz`
+Microsoft OneDrive | !OneDrive | `!OneDrive`
+Next Cloud | !Next Cloud | `!Next Cloud`
+OneDrive | !OneDrive | `!OneDrive`
+Proton Drive | !Proton Drive | `!Proton Drive`
+
+## 💲 Cryptocurrency
+Name | Badge | Markdown
+--- | --- | ---
+Amp | !Amp | `!Amp`
+Bitcoin | !Bitcoin | `!Bitcoin`
+Bitcoin Cash | !Bitcoin Cash | `!Bitcoin Cash`
+Bitcoin SV | !Bitcoin SV | `!Bitcoin SV`
+Binance | !Binance | `!Binance`
+Chainlink | !Chainlink | `!Chainlink`
+Dogecoin | !Dogecoin | `!Dogecoin`
+Dash | !Dash | `!Dash`
+Ethereum | !Ethereum | `!Ethereum`
+Iota | !Iota | `!Iota`
+Litecoin | !Litecoin | `!Litecoin`
+Monero | !Monero | `!Monero`
+Polkadot | !Polkadot | `!Polkadot`
+Stellar | !Stellar | `!Stellar`
+Tether | !Tether | `!Tether`
+Xrp | !Xrp | `!Xrp`
+Z Cash | !Z Cash | `!Z Cash`
+
+## 💾 Databases
+Name | Badge | Markdown
+--- | --- | ---
+Amazon DynamoDB | !AmazonDynamoDB | `!AmazonDynamoDB`
+Appwrite | !Appwrite | `!Appwrite`
+Arango DB | !Arango DB | `!Arango DB`
+ApacheCassandra | !ApacheCassandra | `!ApacheCassandra`
+ClickHouse | !ClickHouse | `!ClickHouse`
+CockroachLabs | !CockroachLabs | `!CockroachLabs`
+Couchbase | !Couchbase | `!Couchbase`
+CrateDB | !CrateDB | `!CrateDB`
+Firebase | !Firebase | `!Firebase`
+InfluxDB | !InfluxDB | `!InfluxDB`
+MariaDB | !MariaDB | `!MariaDB`
+MusicBrainz | !MusicBrainz | `!MusicBrainz`
+MicrosoftSQLServer | !MicrosoftSQLServer | `!MicrosoftSQLServer`
+MongoDB | !MongoDB | `!MongoDB`
+MySQL | !MySQL | `!MySQL`
+Neo4J | !Neo4J | `!Neo4J`
+PlanetScale | !PlanetScale | `!PlanetScale`
+PocketBase | !PocketBase | `!PocketBase`
+Postgres | !Postgres | `!Postgres`
+Realm | !Realm | `!Realm`
+Redis | !Redis | `!Redis`
+Single Store | !Single Store | `!Single Store`
+SQLite | !SQLite | `!SQLite`
+Supabase | !Supabase | `!Supabase`
+SurrealDB | !SurrealDB | `!SurrealDB`
+Teradata | !Teradata | `!Teradata`
+
 
 💬 Social
 Name	Badge	Markdown
