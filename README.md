@@ -6,3 +6,7 @@ Indeed	Indeed	![Indeed](https://img.shields.io/badge/indeed-003A9B?style=for-the
 Upwork	Upwork	![Upwork](https://img.shields.io/badge/UpWork-6FDA44?style=for-the-badge&logo=Upwork&logoColor=white)
 (Back to top)
 
+# github-readme-stats
+
+![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
+
