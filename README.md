@@ -57,3 +57,194 @@ Zoom	Zoom	![Zoom](https://img.shields.io/badge/Zoom-2D8CFF?style=for-the-badge&l
 
 📱 Smartphone Brands
 
+![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
+
+![Baidu](https://img.shields.io/badge/Baidu-2932E1?style=for-the-badge&logo=Baidu&logoColor=white)
+
+## Education
+Name	| Badge	| Markdown
+---	| ---	| ---
+42	| ![42](https://img.shields.io/badge/-42-black?style=for-the-badge&logo=42&logoColor=white)	| `!42`
+Codecademy	| !Codecademy	| `!Codecademy`
+Codingninjas	| !codingninjas	| `!codingninjas`
+Codewars	| !Codewars	| `!Codewars`
+Coursera	| !Coursera	| `!Coursera`
+Datacamp	| !Datacamp	| `!Datacamp`
+Duolingo	| !Duolingo	| `!Duolingo`
+edX	| !edX	| `!edX`
+Exercism	| !Exercism	| `!Exercism`
+FreeCodeCamp	| !FreeCodeCamp	| `!FreeCodeCamp`
+Future Learn	| !Future Learn	| `!Future Learn`
+GeeksforGeeks	| !GeeksForGeeks	| `!GeeksForGeeks`
+Google Scholar	| !Google Scholar	| `!Google Scholar`
+Khan Academy	| !Khan Academy	| `!Khan Academy`
+MDN Web Docs	| !MDN Web Docs	| `!MDN Web Docs`
+Microsoft Learn	| !Microsoft Learn	| `!Microsoft Learn`
+Pluralsight	| !Pluralsight	| `!Pluralsight`
+Scrimba	| !Scrimba	| `!Scrimba`
+Skill Share	| !Skill Share	| `!Skill Share`
+Udacity	| !Udacity	| `!Udacity`
+Udemy	| !Udemy	| `!Udemy`
+
+## 💰 Funding
+Name	| Badge	| Markdown
+---	| ---	| ---
+Amazon Pay	| !Amazon Pay	| `!Amazon Pay`
+Apple Pay	| !Apple Pay	| `!Apple Pay`
+Buy Me a Coffee	| !BuyMeACoffee	| `!BuyMeACoffee`
+Github Sponsors	| !Github-sponsors	| `!Github-sponsors`
+Google Pay	| !Google Pay	| `!Google Pay`
+Ko-Fi	| !Ko-Fi	| `!Ko-Fi`
+LiberaPay	| !LiberaPay	| `!LiberaPay`
+Patreon	| !Patreon	| `!Patreon`
+PayPal	| !PayPal	| `!PayPal`
+Paytm	| !Paytm	| `!Paytm`
+Phonepe	| !Phonepe	| `!Phonepe`
+Samsung Pay	| !Samsung Pay	| `!Samsung Pay`
+Stripe	| !Stripe	| `!Stripe`
+Wise	| !Wise	| `!Wise`
+
+## 📚 Frameworks, Platforms and Libraries
+Name	| Badge	| Markdown
+---	| ---	| ---
+.NET	| !.Net	| `!.Net`
+AdonisJS	| !AdonisJS	| `!AdonisJS`
+Aiohttp	| Aiohttp	| `Aiohttp`
+Alpine.js	| !Alpine.js	| `!Alpine.js`
+AMD HIP	| !AMD_HIP	| `!AMD_HIP`
+Anaconda	| !Anaconda	| `!Anaconda`
+Angular	| !Angular	| `!Angular`
+Angular.js	| !Angular.js	| `!Angular.js`
+Ant Design	| !Ant-Design	| `!Ant-Design`
+Apache Spark	| !Apache Spark	| `!Apache Spark`
+Apache Kafka	| !Apache Kafka	| `!Apache Kafka`
+Apache Hadoop	| !Apache Hadoop	| `!Apache Hadoop`
+Apache Hive	| !Apache Hive	| `!Apache Hive`
+Apollo GraphQL	| !Apollo-GraphQL	| `!Apollo-GraphQL`
+Astro	| !Astro	| `!Astro`
+Aurelia	| !Aurelia	| `!Aurelia`
+Blazor	| !Blazor	| `!Blazor`
+Bootstrap	| !Bootstrap	| `!Bootstrap`
+Buefy	| !Buefy	| `!Buefy`
+Bulma	| !Bulma	| `!Bulma`
+Bun	| !Bun	| `!Bun`
+Celery	| !Celery	| `!Celery`
+Chakra UI	| !Chakra	| `!Chakra`
+Chart.js	| !Chart.js	| `!Chart.js`
+Code Igniter	| !Code-Igniter	| `!Code-Igniter`
+Context API	| !Context-API	| `!Context-API`
+CUDA	| !nVIDIA	| `!nVIDIA`
+DaisyUI	| !DaisyUI	| `!DaisyUI`
+Deno JS	| !Deno JS	| `!Deno JS`
+Directus	| !Directus	| `!Directus`
+Django	| !Django	| `!Django`
+DjangoREST	| !DjangoREST	| `!DjangoREST`
+Drupal	| !Drupal	| `!Drupal`
+EJS	| !EJS	| `!EJS`
+Elasticsearch	| !Elasticsearch	| `!Elasticsearch`
+Electron.js	| !Electron.js	| `!Electron.js`
+Ember	| !Ember	| `!Ember`
+ESBuild	| !Esbuild	| `!Esbuild`
+Expo	| !Expo	| `!Expo`
+Express.js	| !Express.js	| `!Express.js`
+FastAPI	| !FastAPI	| `!FastAPI`
+Fastify	| !Fastify	| `!Fastify`
+Filament	| !Filament	| `!Filament`
+Flask	| !Flask	| `!Flask`
+Flutter	| !Flutter	| `!Flutter`
+Framework7	| !Framework7	| `!Framework7`
+Gatsby.js	| !Gatsby	| `!Gatsby`
+Grav	| !Grav	| `!Grav`
+Green Sock	| !Green Sock	| `!Green Sock`
+Gulp	| !Gulp	| `!Gulp`
+Gutenberg	| !Gutenberg	| `!Gutenberg`
+Insomnia	| !Insomnia	| `!Insomnia`
+Handlebars	| !Handlebars	| `!Handlebars`
+Hugo	| !Hugo	| `!Hugo`
+Ionic	| !Ionic	| `!Ionic`
+Jasmine	| !Jasmine	| `!Jasmine`
+JavaFx	| !JavaFX	| `!JavaFX`
+Jinja	| !Jinja	| `!Jinja`
+Joomla	| !Joomla	| `!Joomla`
+jQuery	| !jQuery	| `!jQuery`
+JWT/JSON Web Token	| !JWT	| `!JWT`
+Laravel	| !Laravel	| `!Laravel`
+Livewire	| !Livewire	| `!Livewire`
+Less	| !Less	| `!Less`
+Maven	| !Maven)	| `!Maven)`
+MUI	| !MUI	| `!MUI`
+Meteor JS	| !Meteor JS	| `!Meteor JS`
+Mantine	| !Mantine	| `!Mantine`
+MaxCompute	| !MaxCompute	| `!MaxCompute`
+Mediapipe	| Mediapipe	| `Mediapipe`
+NPM	| !NPM	| `!NPM`
+NestJS	| !NestJS	| `!NestJS`
+Next JS	| !Next JS	| `!Next JS`
+Node.js	| !NodeJS	| `!NodeJS`
+Nodemon	| !Nodemon	| `!Nodemon`
+Node-RED	| !Node-RED	| `!Node-RED`
+Nuxt JS	| !Nuxtjs	| `!Nuxtjs`
+Nx	| !Nx	| `!Nx`
+OpenCV	| !OpenCV	| `!OpenCV`
+OpenGL	| !OpenGL	| `!OpenGL`
+P5js	| !p5js	| `!p5js`
+Phoenix Framework	| !Phoenix Framework	| `!Phoenix Framework`
+Plotly Dash	| !Plotly Dash	| `!Plotly Dash`
+PNPM	| !PNPM	| `!PNPM`
+Poetry	| !Poetry	| `!Poetry`
+Prefect	| !Prefect	| `!Prefect`
+Pug	| !Pug	| `!Pug`
+Pytest	| !Pytest	| `!Pytest`
+Qt	| !Qt	| `!Qt`
+Quarkus	| !Quarkus	| `!Quarkus`
+Quasar	| !Quasar	| `!Quasar`
+ROS	| !ROS	| `!ROS`
+RabbitMQ	| !RabbitMQ	| `!RabbitMQ`
+Radix UI	| !Radix UI	| `!Radix UI`
+Rails	| !Rails	| `!Rails`
+RayLib	| !RayLib	| `!RayLib`
+React	| !React	| `!React`
+React Native	| !React Native	| `!React Native`
+React Query	| !React Query	| `!React Query`
+React Router	| !React Router	| `!React Router`
+React Hook Form	| !React Hook Form	| `!React Hook Form`
+Redux	| !Redux	| `!Redux`
+Remix	| !Remix	| `!Remix`
+RollupJS	| !RollupJS	| `!RollupJS`
+RxDB	| !RxDB	| `!RxDB`
+RxJS	| !RxJS	| `!RxJS`
+SASS	| !SASS	| `!SASS`
+Scrapy	| !Scrapy	| `!Scrapy`
+Semantic UI React	| !Semantic UI React	| `!Semantic UI React`
+Snowflake	| !Snowflake	| `!Snowflake`
+Socket.io	| !Socket.io	| `!Socket.io`
+SolidJS	| !SolidJS	| `!SolidJS`
+Spring	| !Spring	| `!Spring`
+Strapi	| !Strapi	| `!Strapi`
+Streamlit	| !Streamlit	| `!Streamlit`
+Styled Components	| !Styled Components	| `!Styled Components`
+Stylus	| !Stylus	| `!Stylus`
+Svelte	| !Svelte	| `!Svelte`
+SvelteKit	| !Svelte	| `!Svelte`
+Symfony	| !Symfony	| `!Symfony`
+TailwindCSS	| !TailwindCSS	| `!TailwindCSS`
+Tauri	| !Tauri	| `!Tauri`
+Three.js	| !Threejs	| `!Threejs`
+Thymeleaf	| !Thymeleaf	| `!Thymeleaf`
+tRPC	| !tRPC	| `!tRPC`
+TypeGraphQL	| !Type-graphql	| `!Type-graphql`
+UnoCSS	| !UnoCSS	| `!UnoCSS`
+Vite	| !Vite	| `!Vite`
+Vue.js	| !Vue.js	| `!Vue.js`
+Vuetify	| !Vuetify	| `!Vuetify`
+Vulkan	| !Vulkan API	| `!Vulkan API`
+Webflow	| !Webflow	| `!Webflow`
+WebGL	| !WebGL	| `!WebGL`
+Webpack	| !Webpack	| `!Webpack`
+Web3.js	| !Web3.js	| `!Web3.js`
+WindiCSS	| !Windicss	| `!Windicss`
+WordPress	| !WordPress	| `!WordPress`
+Xamarin	| !Xamarin	| `!Xamarin`
+Yarn	| !Yarn	| `!Yarn`
+Zod	| !Zod	| `!Zod`
+
