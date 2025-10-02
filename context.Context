@@ -1,0 +1,57 @@
+package main
+
+import (
+	"context"
+	"fmt"
+	"log"
+	"os"
+	"time"
+
+	"github.com/isovalent/credly-go/credly"
+)
+
+func main() {
+	// It's a good practice to load credentials from environment variables
+	// instead of hardcoding them.
+	apiToken := os.Getenv("CREDLY_API_TOKEN")
+	credlyOrg := os.Getenv("CREDLY_ORG")
+
+	if apiToken == "" || credlyOrg == "" {
+		log.Fatal("CREDLY_API_TOKEN and CREDLY_ORG environment variables must be set")
+	}
+
+	// Initialize the Credly client
+	client := credly.NewClient(apiToken, credlyOrg)
+
+	// Use a context for API calls to handle timeouts and cancellations.
+	ctx, cancel := context.WithTimeout(context.Background(), 30*time.Second)
+	defer cancel()
+
+	// Get all badges for user joe@example.com
+	badges, err := client.GetBadges(ctx, "joe@example.com", nil)
+	if err != nil {
+		// Use log.Fatalf for errors that should terminate the program.
+		log.Fatalf("Error getting badges: %v", err)
+	}
+	fmt.Printf("Found %d badges for joe@example.com\n", len(badges))
+
+	// Create a new badge template
+	newTemplate := &credly.CreateBadgeTemplateParams{
+		Name:              "Advanced Networking",
+		Description:       "This badge recognizes expertise in advanced networking concepts",
+		ImageURL:          "https://yourserver.com/badge-images/networking.png",
+		Skills:            []string{"Networking", "Routing", "TCP/IP"},
+		GlobalActivityURL: "https://example.com/badge-criteria/networking",
+		// Optional fields
+		Level:       "Advanced",
+		TimeToEarn:  "Months",
+		ReportingTags: []string{"technical", "networking"},
+	}
+
+	template, err := client.CreateBadgeTemplate(ctx, newTemplate)
+	if err != nil {
+		log.Fatalf("Error creating badge template: %v", err)
+	}
+
+	fmt.Printf("Created new badge template with ID: %s\n", template.Id)
+}
